@@ -32,6 +32,7 @@ MainWindow::MainWindow(QWidget *parent) :
    frame->setFixedSize(50, 50);
    widget->move(0, 0);
    frame->move(0, 50);
+   int a = 1;
 }
 void MainWindow::init()
 {
