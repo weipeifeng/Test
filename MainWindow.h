@@ -76,6 +76,8 @@ public slots:
     void slot_load_database();
     void slot_search();
     void slot_search2();
+private:
+    int b;
 
 };
 
